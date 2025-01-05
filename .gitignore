@@ -38,3 +38,10 @@ hs_err_*.log
 replay_*.log
 *.hprof
 *.jfr
+
+
+
+# Biolith
+logs
+config/biolith/general.json
+config/fabric/indigo-renderer.properties
