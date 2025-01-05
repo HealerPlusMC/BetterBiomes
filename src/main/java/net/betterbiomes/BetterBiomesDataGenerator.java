@@ -28,7 +28,6 @@ public class BetterBiomesDataGenerator implements DataGeneratorEntrypoint {
 
 
 		pack.addProvider(ModEnglishLangProvider::new);
-		pack.addProvider(ModArabicLangProvider::new);
 
 	}
 
