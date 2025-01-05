@@ -43,5 +43,4 @@ replay_*.log
 
 # Biolith
 logs
-config/biolith/general.json
-config/fabric/indigo-renderer.properties
+config
