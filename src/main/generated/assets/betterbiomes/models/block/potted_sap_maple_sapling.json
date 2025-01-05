@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/flower_pot_cross",
+  "textures": {
+    "plant": "betterbiomes:block/sap_maple_sapling"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "betterbiomes:block/sap_maple_sapling"
+  }
+}

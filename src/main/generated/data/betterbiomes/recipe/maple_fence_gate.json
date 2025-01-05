@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "R": {
+      "item": "betterbiomes:maple_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "SRS",
+    "SRS",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "betterbiomes:maple_fence_gate"
+  }
+}

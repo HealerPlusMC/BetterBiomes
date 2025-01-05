@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "boat",
+  "key": {
+    "#": {
+      "item": "betterbiomes:sakura_planks"
+    }
+  },
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "betterbiomes:sakura_boat"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "betterbiomes:maple_planks"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "RRR",
+    " X "
+  ],
+  "result": {
+    "count": 3,
+    "id": "betterbiomes:maple_sign"
+  }
+}

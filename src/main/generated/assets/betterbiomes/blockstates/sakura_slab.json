@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "betterbiomes:block/sakura_slab"
+    },
+    "type=double": {
+      "model": "betterbiomes:block/sakura_planks"
+    },
+    "type=top": {
+      "model": "betterbiomes:block/sakura_slab_top"
+    }
+  }
+}

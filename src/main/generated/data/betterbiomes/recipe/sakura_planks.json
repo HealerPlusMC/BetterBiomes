@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "betterbiomes:sakura_logs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "betterbiomes:sakura_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "betterbiomes:block/sakura_log",
+    "side": "betterbiomes:block/sakura_log"
+  }
+}

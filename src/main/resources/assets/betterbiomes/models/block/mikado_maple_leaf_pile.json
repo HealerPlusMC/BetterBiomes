@@ -1,0 +1,6 @@
+{
+  "parent": "betterbiomes:block/pile",
+  "textures": {
+    "pile": "betterbiomes:block/mikado_maple_leaves"
+  }
+}
